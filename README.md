@@ -1,5 +1,5 @@
 
-#Data Mining and Machine Learning course 2019
+# Data Mining and Machine Learning course 2019
 
 To open the notebooks: 
 
